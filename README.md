@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Dyalog APL Windows IDE](https://dyalog.com/download-zone.htm)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Dyalog APL Windows IDE](https://dyalog.com/download-zone.htm).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/dyalog-apl-windows-ide](https://draculatheme.com/dyalog-apl-windows-ide).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Adám Brudzewsky](https://github.com/abrudz?size=100)](https://github.com/abrudz) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Adám Brudzewsky](https://github.com/abrudz) |
 
 ## License
 
