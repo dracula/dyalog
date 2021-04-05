@@ -1,7 +1,5 @@
 ### [Dyalog APL](https://dyalog.com/download-zone.htm)
 
-#### Select the theme
-
 Good news: Dracula is already installed with the latest version.
 
 #### Activating theme
