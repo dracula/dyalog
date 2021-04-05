@@ -1,17 +1,16 @@
-### [X](http://link-to-x.com)
+### [Dyalog APL](https://dyalog.com/download-zone.htm)
 
-#### Install using Git
+#### Select the theme
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Good news: Dracula is already installed with the latest version.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+If you're using the default Windows IDE:
+
+1. Options → Colours… → Schemes: Dracula
+2. Deselect "Single background" if checked
+
+If you're using [RIDE](https://github.com/dyalog/ride) (default on macOS, optional on other platforms):
+
+1. Edit → Preferences → Colours → Scheme: Dracula 
