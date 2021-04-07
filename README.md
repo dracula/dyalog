@@ -2,7 +2,7 @@
 
 > A dark theme for [Dyalog APL](https://dyalog.com).
 
-![Screenshot](./screenshot1.png) ![Screenshot](./screenshot2.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
