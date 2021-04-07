@@ -1,14 +1,13 @@
-### [Dyalog APL](https://dyalog.com/download-zone.htm)
+### [Dyalog APL](https://dyalog.com)
 
 Good news: Dracula is already installed with the latest version.
 
-#### Activating theme
-
-If you're using the default Windows IDE:
+#### Activating theme on the default [Windows IDE](https://dyalog.com/download-zone.htm)
 
 1. Options → Colours… → Schemes: Dracula
-2. Deselect "Single background" if checked
+2. Syntax tab → deselect "Single background" if checked
+3. Session/Trace tab → Session Colour Scheme: Dracula
 
-If you're using [RIDE](https://github.com/dyalog/ride) (default on macOS, optional on other platforms):
+#### Activating theme on the [Remote IDE (RIDE)](https://github.com/dyalog/ride)
 
-1. Edit → Preferences → Colours → Scheme: Dracula 
+1. Edit → Preferences → Colours → Scheme: Dracula
