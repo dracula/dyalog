@@ -1,12 +1,12 @@
-# Dracula for [Dyalog APL Windows IDE](https://dyalog.com/download-zone.htm)
+# Dracula for [Dyalog APL](https://dyalog.com)
 
-> A dark theme for [Dyalog APL Windows IDE](https://dyalog.com/download-zone.htm).
+> A dark theme for [Dyalog APL](https://dyalog.com).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot1.png) ![Screenshot](./screenshot2.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/dyalog-apl-windows-ide](https://draculatheme.com/dyalog-apl-windows-ide).
+All instructions can be found at [draculatheme.com/dyalog-apl](https://draculatheme.com/dyalog-apl).
 
 ## Team
 
